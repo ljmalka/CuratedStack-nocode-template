@@ -71,6 +71,12 @@
       "name": "Learning",
       "description": "best learning tools",
       "icon": "🎓"
+    },
+    {
+      "slug": "affiliate-marketing",
+      "name": "Affiliate Marketing",
+      "description": "Best affiliate marketing tools to improve your campaigns.",
+      "icon": "⚙"
     }
   ]
 }
