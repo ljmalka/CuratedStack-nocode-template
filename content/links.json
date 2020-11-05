@@ -60,14 +60,6 @@
     },
     {
       "categories_slugs": [
-        "open-source"
-      ],
-      "name": "Mobile App Landing Page Template",
-      "description": "📱 Free to use static generated landing page template for your mobile app",
-      "url": "https://github.com/sandoche/Mobile-app-landingpage-template"
-    },
-    {
-      "categories_slugs": [
         "finance"
       ],
       "name": "Revenual",
@@ -214,7 +206,8 @@
       ],
       "name": "Jekyll-webpack-boilerplate",
       "description": "A Jekyll boilerplate supercharged with Webpack to build modern performant websites (including Progressive Web Apps)",
-      "url": "https://github.com/sandoche/Jekyll-webpack-boilerplate"
+      "url": "https://github.com/sandoche/Jekyll-webpack-boilerplate",
+      "icon": "/images/logos/jekyll.png"
     },
     {
       "categories_slugs": [
@@ -235,6 +228,15 @@
       "description": "Get started with the CuratedStack (No-Code) Template",
       "url": "https://github.com/sandoche/CuratedStack-nocode-template",
       "icon": "/images/logos/icon.png"
+    },
+    {
+      "name": "AnyTrack",
+      "description": "AnyTrack is the conversion tracking platform that will allow you to instantly track and sync all your conversions across all your marketing tools and pixels.",
+      "url": "https://anytrack.io",
+      "icon": "/images/logos/social-icon.png",
+      "categories_slugs": [
+        "marketing"
+      ]
     }
   ]
 }
